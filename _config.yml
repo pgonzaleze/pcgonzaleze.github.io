@@ -27,8 +27,6 @@ navbar-links:
     - Personal: "aboutme"
     - Academic: "academic"
     - Work experience: "work"
-    - Fellowships and awards: "awards"
-    - CV: "pgonzalezCV.pdf"
   Research: 
     - Research interest: "research"
     - Conferences: "congress"
